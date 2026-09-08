@@ -1,0 +1,10 @@
+object_types:
+  randomized_galaxy:
+    area_partition: None
+    module: randomized_skycat_objects
+    collection_class: RandomizedCollection
+    sampled_object_type: diffsky_galaxy
+    ra: 4.2
+    dec: -38.7
+    radius: 0.15
+    random_seed: 42
